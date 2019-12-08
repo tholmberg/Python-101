@@ -7,3 +7,18 @@ Project Jupyter - https://jupyter.org/install
 Python PIP - https://www.w3schools.com/python/python_pip.asp
 How to Upgrade PIP - https://datatofish.com/upgrade-pip/
 
+Beautiful Soup - Tool for web scraping and data passing in Python
+good for use with HTML, JSON, XML
+
+Soup is a common term used for discussing web scraped data.
+
+Installs and Updates
+
+cd to directory folder containing Python scripts - c:\users\username\appdata\local\programs\python\python38-32
+
+Install > pip3 install beautifulsoup4
+Upgrade pip > python -m pip install --upgrade pip
+
+Current pip version is 19.3.1
+
+Install Jupyter Lab > pip install jupyterlab
