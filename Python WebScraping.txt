@@ -1,0 +1,9 @@
+Setup for Web scraping with BeautifulSoup
+
+Links used for setup
+
+Beautiful Soup Page - https://pypi.org/project/beautifulsoup4/
+Project Jupyter - https://jupyter.org/install
+Python PIP - https://www.w3schools.com/python/python_pip.asp
+How to Upgrade PIP - https://datatofish.com/upgrade-pip/
+
