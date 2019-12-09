@@ -1,6 +1,8 @@
 # Python-101
 A home for all of my early Python learning projects
 
+12/8/19- Project 4: Web scraping
+
 11/24/19- Project 3: Built a simple word counter to check number of words in a string
 
 11/24/19- Project 2: String parsing added. Code reads a user's input to determine what words are in the string and then sorts them alpabetically. 
